@@ -1,11 +1,11 @@
 # Regressao Linear
-## São dois Projetos de Machine Learning - Regressão Linear
+## São dois projetos de Machine Learning - Regressão Linear
 
 ### Datasets:
 * Fonte: https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo
 * Fonte: https://www.kaggle.com/greenwing1985/housepricing
 
-### São abordados 2 projetos de Regressão:
+### Técnicas abordadas:
 * Análise de atributos para seleção do modelo com gráficos
 * Treinamento do modelo
 * Métrica de avaliação do modelo
